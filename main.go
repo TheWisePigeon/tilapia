@@ -28,6 +28,8 @@ func main() {
 			}
 			if accumulator < 0 || accumulator == 256 {
 				accumulator = 0
+
+				// bonjour je suis un hackeur
 			}
 		}
 	}
